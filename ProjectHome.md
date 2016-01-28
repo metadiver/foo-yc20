@@ -1,0 +1,1 @@
+This project has been moved to Github https://github.com/sampov2/foo-yc20
